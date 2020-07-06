@@ -1,0 +1,37 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Eric W. Jones"
+theme = 'tikva'
+
+[params]
+    subtitle = "Postdoctoral researcher. Physicist studying the microbiome with ecology."
+
+[params.navbar]
+    style = "header"
+    colorScheme = "navbar-dark"
+    bgScheme = "bg-primary"
+
+[params.theme]
+    bootstrapTheme = "yeti" # darkly
+
+[params.theme.header]
+    # The following options are mostly used when the navbar is in "header" mode, i.e. not fixed-top
+    #fontColor = '' # header font color, leave empty for default
+    #linkColor = '' # header link color, leave empty for default
+    #backgroundColor = '' # header background color, leave empty for default
+
+    image = 'img/header_image.png' # Use header image
+    width = 679 # Width of header image.
+    height = 178 # Height of header image.
+    # altText = 'alt text for header image' # Set alt text for header image, default empty
+    displayHeaderText = true # display the title and subtitle - yes or no?
+    titleOnImage = true # true|false, default false.
+    fontColorTitle = '#073642' # For all colors, please use #rrggbb format with # and 6 characters
+    fontColorSubtitle = '#333333'
+    overlayAlignment = 'lt' # lt = left/top, mt = middle/top, rt = right/top, lb = left/bottom, mb = middle/bottom, rb = right/bottom
+    overlayDistanceVertical = '100' # Dependent on the overlayAlignment option, this option is used to modify the vertical distance between the margin and the title/subtitle. This allows to place the title and subtitle on nearly any place related to the header image. 
+    overlayDistanceHorizontal = '20' # The same as above, but for horizontal distance. 
+    overlayDistanceBetween = '0' # Distance between title and subtitle 
+    overlayBackgroundColor = '#FFFFFF'
+    overlayTransparency = '70' # default 70%
+
