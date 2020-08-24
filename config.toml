@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://erijones.github.io/"
 languageCode = "en-us"
 title = "Eric W. Jones"
 theme = 'tikva'
@@ -35,3 +35,23 @@ theme = 'tikva'
     overlayBackgroundColor = '#FFFFFF'
     overlayTransparency = '70' # default 70%
 
+
+[menu]
+
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "research"
+        name = "Research"
+        url = "/research/"
+        weight = 20
+
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact/"
+        weight = 30
