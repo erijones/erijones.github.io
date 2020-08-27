@@ -11,12 +11,13 @@
     
     
     <item>
-      <title>About</title>
+      <title>Contact</title>
       <link>https://erijones.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://erijones.github.io/contact/</guid>
-      <description>Coming soon!</description>
+      <description>My email address is jones.eric93 [at] gmail.com. I would love to talk to anyone interested in learning more about my research.
+You can also follow me on twitter at @e_w_jones.</description>
     </item>
     
     <item>
@@ -25,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://erijones.github.io/pictures/</guid>
-      <description>Here are some pictures.
+      <description>Since 2016 I have had the pleasure of through-hiking the Colorado Trail (Fall 2017), the Wonderland Trail (Fall 2019), and the John Muir Trail (Fall 2020). Here are a few pictures from those adventures.
                      </description>
     </item>
     
@@ -35,7 +36,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://erijones.github.io/research/</guid>
-      <description>Coming soon!</description>
+      <description>Everyone has a gut microbiome, full of trillions of microbes, that influences our health. One person&amp;rsquo;s microbiome might give them a stomach ache, while another person&amp;rsquo;s might help them metabolize food more efficiently. I want to figure out how &amp;ldquo;medicine for the microbiome&amp;rdquo; works&amp;ndash; how can a sick person&amp;rsquo;s microbiome be made &amp;ldquo;healthy&amp;rdquo;? Specifically, I am interested in how external interventions (e.g. fecal microbiota transplantation, probiotics, or a modified diet) influence microbiome composition.</description>
     </item>
     
   </channel>
