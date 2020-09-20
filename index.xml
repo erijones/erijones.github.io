@@ -5,11 +5,7 @@
     <link>https://erijones.github.io/</link>
     <description>Recent content in Homepage on Eric W. Jones</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://erijones.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://erijones.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://erijones.github.io/contact/</link>
@@ -27,7 +23,8 @@ You can also follow me on twitter at @e_w_jones.</description>
       
       <guid>https://erijones.github.io/pictures/</guid>
       <description>Since 2016 I have had the pleasure of through-hiking the Colorado Trail (Fall 2017), the Wonderland Trail (Fall 2019), and the John Muir Trail (Fall 2020). Here are a few pictures from those adventures.
-                     </description>
+John Muir Trail (Fall 2020)                      
+Colorado Trail (Fall 2017)                                            </description>
     </item>
     
     <item>
