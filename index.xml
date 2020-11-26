@@ -17,6 +17,16 @@ You can also follow me on twitter at @e_w_jones.</description>
     </item>
     
     <item>
+      <title>Notes</title>
+      <link>https://erijones.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erijones.github.io/notes/</guid>
+      <description>Here are a collection of miscellaneous notes:
+Learning information theory with hangman. For a game of hangman with a three-letter word, in which X is the probability space of the first letter (26 elements) and Y is the probability space of the last two leters (26^2 elements), I consider various information theoretic quantities (e.g. joint entropy H(X,Y), conditional entropy H(Y|X), and the mutual information I(X;Y)) .</description>
+    </item>
+    
+    <item>
       <title>Pictures</title>
       <link>https://erijones.github.io/pictures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
