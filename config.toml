@@ -4,7 +4,7 @@ title = "Eric W. Jones"
 theme = 'tikva'
 
 [params]
-    subtitle = "Postdoctoral researcher. Physicist studying the microbiome with ecology."
+    subtitle = "Banting and PIMS Postdoctoral Fellow"
 
 [params.navbar]
     style = "header"
@@ -29,12 +29,14 @@ theme = 'tikva'
     fontColorTitle = '#073642' # For all colors, please use #rrggbb format with # and 6 characters
     fontColorSubtitle = '#333333'
     overlayAlignment = 'lt' # lt = left/top, mt = middle/top, rt = right/top, lb = left/bottom, mb = middle/bottom, rb = right/bottom
-    overlayDistanceVertical = '100' # Dependent on the overlayAlignment option, this option is used to modify the vertical distance between the margin and the title/subtitle. This allows to place the title and subtitle on nearly any place related to the header image. 
+    overlayDistanceVertical = '50' # Dependent on the overlayAlignment option, this option is used to modify the vertical distance between the margin and the title/subtitle. This allows to place the title and subtitle on nearly any place related to the header image. 
     overlayDistanceHorizontal = '20' # The same as above, but for horizontal distance. 
     overlayDistanceBetween = '0' # Distance between title and subtitle 
     overlayBackgroundColor = '#FFFFFF'
-    overlayTransparency = '70' # default 70%
+    overlayTransparency = '85' # default 70%
 
+[markup.goldmark.renderer]
+    unsafe= true
 
 [menu]
 
@@ -51,7 +53,26 @@ theme = 'tikva'
         weight = 20
 
     [[menu.main]]
+        identifier = "teaching"
+        name = "Teaching"
+        url = "/teaching/"
+        weight = 20
+
+    [[menu.main]]
+        identifier = "misc"
+        name = "Miscellaneous"
+        url = "/misc/"
+        weight = 30
+
+    [[menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "/contact/"
         weight = 30
+
+    [[menu.main]]
+        identifier = "pictures"
+        name = "Pictures"
+        url = "/pictures/"
+        weight = 30
+
