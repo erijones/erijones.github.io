@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  on Eric W. Jones</title>
+    <link>https://erijones.github.io/</link>
+    <description>Recent content in   on Eric W. Jones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://erijones.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://erijones.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erijones.github.io/contact/</guid>
+      <description>My email address is jones.eric93 [at] gmail.com. I would love to talk to anyone interested in learning more about my research.
+You can also follow me on twitter at @e_w_jones.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://erijones.github.io/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erijones.github.io/misc/</guid>
+      <description>APS March Meeting 2022 Poster. This poster summarizes my paper &amp;ldquo;Stochastic microbiome assembly depends on context,&amp;rsquo;&amp;rsquo; published in PNAS here. Updated 3/18/22.
+The SmartToilet: &amp;ldquo;Dr. John&amp;rdquo; is the gateway to personalized medicine. First place winner of the SFU Postdoc Research Day Writing for the Public Contest. A 250-word research summary prepared for &amp;ldquo;casual science communication pieces for newspapers, magazine articles, blogs, and more for public audiences.&amp;rdquo; Updated 3/31/21.
+SFU Postdoc Research Day 2021 Poster.</description>
+    </item>
+    
+    <item>
+      <title>Pictures</title>
+      <link>https://erijones.github.io/pictures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erijones.github.io/pictures/</guid>
+      <description>Since 2016 I have had the pleasure of through-hiking the Colorado Trail (Fall 2017), the Wonderland Trail (Fall 2019), and the John Muir Trail (Fall 2020). Here are a few pictures from those adventures.
+John Muir Trail (Fall 2020) Colorado Trail (Fall 2017) </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://erijones.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erijones.github.io/research/</guid>
+      <description>Everyone has a gut microbiome, full of trillions of microbes, that influences our health. One person&amp;rsquo;s microbiome might give them a stomach ache, while another person&amp;rsquo;s might help them metabolize food more efficiently. I want to figure out how &amp;ldquo;medicine for the microbiome&amp;rdquo; works&amp;ndash; how can a sick person&amp;rsquo;s microbiome be made &amp;ldquo;healthy&amp;rdquo;? Specifically, I am interested in how external interventions (e.g. fecal microbiota transplantation, probiotics, or a modified diet) influence microbiome composition.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://erijones.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erijones.github.io/teaching/</guid>
+      <description>Teaching and mentorship enriched my graduate school experience. While at UCSB I improved my teaching abilities both by studying pedagogy and through practical experience: as a graduate student I was employed as an instructor of record for an upper-division physics course (Summer 2019), a teaching assistant for a freshman-level calculus-based physics course (Fall 2015), and a teaching assistant for an upper-division complex analysis course twice (Winter 2016 and Winter 2020).</description>
+    </item>
+    
+  </channel>
+</rss>
