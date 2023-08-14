@@ -4,7 +4,7 @@ title = "Eric W. Jones"
 theme = 'tikva'
 
 [params]
-    subtitle = "Banting and PIMS Postdoctoral Fellow"
+    subtitle = "Postdoctoral Fellow, Simon Fraser University"
 
 [params.navbar]
     style = "header"

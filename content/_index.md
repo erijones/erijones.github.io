@@ -15,8 +15,8 @@ I received my PhD in physics from UC Santa Barbara in 2020 after working with
 [Jean Carlson](http://web.physics.ucsb.edu/~complex/) and the Complex
 Systems group. 
 
-My research is inspired by "medicine for the microbiome."
------------------------------------------------
+My research is motivated by "medicine for the microbiome."
+----------------------------------------------------------
 For example,
 fecal microbiota transplantation (FMT)
 can permanently alter a person's
@@ -35,6 +35,7 @@ For a list of my publications, refer to my
 Here is my [CV](./img/cv_Eric_W_Jones.pdf).
 
 <br />
+
 
 *"Biological research is in crisis ... we are drowning in a sea of data and
 thirsting for some theoretical framework with which to understand it. Although

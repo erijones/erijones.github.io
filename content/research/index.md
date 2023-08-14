@@ -5,7 +5,7 @@ draft: false
 
 
 Everyone has a gut microbiome, full of trillions of microbes, that influences
-our health. One person's microbiome might give them a stomach ache, while
+their health. One person's microbiome might give them a stomach ache, while
 another person's might help them metabolize food more efficiently. I want to
 figure out how "medicine for the microbiome" works-- how can a sick person's
 microbiome be made "healthy"? Specifically, I am interested in how external
