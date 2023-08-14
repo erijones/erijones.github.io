@@ -3,39 +3,37 @@ title: " "
 draft: false
 ---
 
-I am a quantitative ecologist / statistical physicist
------------------------------------------------------
+I am a statistical biophysicist
+-------------------------------
 
 I work with [David
-Sivak](https://www.sfu.ca/physics/sivakgroup.html) and his Stochastic
-Thermodynamics group at Simon Fraser University
-as a [Banting](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html)
-and [PIMS](https://www.pims.math.ca/scientific/postdoctoral) Postdoctoral
+Sivak](https://www.sfu.ca/physics/sivakgroup.html) and the Stochastic
+Thermodynamics group at Simon Fraser University as a [Banting](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html)
+(2020-22) and [PIMS](https://www.pims.math.ca/scientific/postdoctoral) (2022-23) Postdoctoral
 Fellow.
-In June 2020 I received my PhD in physics from UC Santa Barbara working with
-[Jean Carlson](http://web.physics.ucsb.edu/~complex/) as part of the Complex
-Systems group. I regularly collaborate with experimentalist [Will
-Ludington](https://emb.carnegiescience.edu/science/faculty/william-ludington)
-at the Carnegie Institute for Science.
+I received my PhD in physics from UC Santa Barbara in 2020 after working with
+[Jean Carlson](http://web.physics.ucsb.edu/~complex/) and the Complex
+Systems group. 
 
 My research is inspired by "medicine for the microbiome."
 -----------------------------------------------
-Fecal microbiota transplantation (FMT) is one example of "medicine of the
-microbiome" that can permanently alter a person's
-microbiome state (*e.g.*, curing _C. difficile_ infection in the process).
-I develop ecological theory that explains the mechanism of action of
-bacteriotherapies like FMT, using mathematical models of
-the microbiome that are characterized and guided by well-controlled
-experimental model systems.
+For example,
+fecal microbiota transplantation (FMT)
+can permanently alter a person's
+microbiome composition, curing associated gastrointestinal diseases like _C.
+difficile_ infection. 
+I specialize in the stochastic factors that influence microbiome assembly and
+cause everyone's gut microbiome to be unique.
+I work closely with experimental collaborators to motivate, ground, and test
+ecological theory in model organisms, including fruit flies and duckweed.
 
-Here are links to recent posters that summarize
+Some recent posters summarize
 my [theoretical](./img/sfu_postdoc_poster_03-09-21.pdf) and
 and [experimental](./img/march_meeting_poster_03-06-22.pdf) research.
 For a list of my publications, refer to my
 [Google Scholar](https://scholar.google.com/citations?user=mdWHIrQAAAAJ&hl=en) page.
-
 Here is my [CV](./img/cv_Eric_W_Jones.pdf).
-------------------------------
+
 <br />
 
 *"Biological research is in crisis ... we are drowning in a sea of data and
