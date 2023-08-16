@@ -27,12 +27,12 @@ cause everyone's gut microbiome to be unique.
 I work closely with experimental collaborators to motivate, ground, and test
 ecological theory in model organisms, including fruit flies and duckweed.
 
+Here is my [CV](./img/cv_Eric_W_Jones.pdf).
+For a list of my publications, refer to my
+[Google Scholar](https://scholar.google.com/citations?user=mdWHIrQAAAAJ&hl=en) page.
 Some recent posters summarize
 my [theoretical](./img/sfu_postdoc_poster_03-09-21.pdf) and
 and [experimental](./img/march_meeting_poster_03-06-22.pdf) research.
-For a list of my publications, refer to my
-[Google Scholar](https://scholar.google.com/citations?user=mdWHIrQAAAAJ&hl=en) page.
-Here is my [CV](./img/cv_Eric_W_Jones.pdf).
 
 <br />
 
