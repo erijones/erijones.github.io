@@ -4,7 +4,8 @@
     <title>Categories on Eric W. Jones</title>
     <link>https://erijones.github.io/categories/</link>
     <description>Recent content in Categories on Eric W. Jones</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://erijones.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://erijones.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
