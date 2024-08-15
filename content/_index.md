@@ -22,9 +22,9 @@ His
 [publication list](https://scholar.google.com/citations?user=mdWHIrQAAAAJ&hl=en)
 are available online. 
 
-Interested in joining the Jones Microbiome Lab? Send an email to ejones15 [at] uccs.edu
-
 <br />
+
+Interested in joining the Jones Microbiome Lab? Send an email to ejones15 [at] uccs.edu
 
 
 <!--- *"Biological research is in crisis ... we are drowning in a sea of data and
