@@ -1,10 +1,10 @@
 baseURL = "https://erijones.github.io/"
 languageCode = "en-us"
-title = "Eric W. Jones"
+title = ""
 theme = 'tikva'
 
 [params]
-    subtitle = "Postdoctoral Fellow, Simon Fraser University"
+    subtitle = ""
 
 [params.navbar]
     style = "header"
@@ -52,11 +52,11 @@ theme = 'tikva'
         url = "/research/"
         weight = 20
 
-    [[menu.main]]
-        identifier = "teaching"
-        name = "Teaching"
-        url = "/teaching/"
-        weight = 20
+    #[[menu.main]]
+    #    identifier = "teaching"
+    #    name = "Teaching"
+    #    url = "/teaching/"
+    #    weight = 20
 
     [[menu.main]]
         identifier = "misc"
@@ -70,9 +70,9 @@ theme = 'tikva'
         url = "/contact/"
         weight = 30
 
-    [[menu.main]]
-        identifier = "pictures"
-        name = "Pictures"
-        url = "/pictures/"
-        weight = 30
+    #[[menu.main]]
+    #    identifier = "pictures"
+    #    name = "Pictures"
+    #    url = "/pictures/"
+    #    weight = 30
 

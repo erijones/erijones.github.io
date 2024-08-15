@@ -3,8 +3,11 @@ title: "Contact"
 draft: false
 ---
 
-My email address is jones.eric93 [at] gmail.com. I would love to talk to anyone
-interested in learning more about my research.
 
-You can also follow me on twitter at
+
+If you would like to learn more, or if you would like to join the Jones
+Microbiome Lab as an undergraduate student, graduate student, or postdoctoral
+researcher, please reach out to ejones15 [at] uccs.edu.
+
+Follow us on twitter at
 [@e_w_jones](https://twitter.com/e_w_jones).
