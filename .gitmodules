@@ -1,6 +1,0 @@
-[submodule "themes/tikva"]
-	path = themes/tikva
-	url = https://github.com/geschke/hugo-tikva.git
-[submodule "themes/zen"]
-	path = themes/zen
-	url = https://github.com/frjo/hugo-theme-zen.git
