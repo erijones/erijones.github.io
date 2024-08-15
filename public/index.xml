@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>  on Eric W. Jones</title>
+    <title>  on </title>
     <link>https://erijones.github.io/</link>
-    <description>Recent content in   on Eric W. Jones</description>
+    <description>Recent content in   on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://erijones.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>https://erijones.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://erijones.github.io/contact/</guid>
-      <description>My email address is jones.eric93 [at] gmail.com. I would love to talk to anyone interested in learning more about my research.&#xA;You can also follow me on twitter at @e_w_jones.</description>
+      <description>If you would like to learn more, or if you would like to join the Jones Microbiome Lab as an undergraduate student, graduate student, or postdoctoral researcher, please reach out to ejones15 [at] uccs.edu.&#xA;Follow us on twitter at @e_w_jones.</description>
     </item>
     <item>
       <title>Miscellaneous</title>
@@ -33,7 +33,7 @@
       <link>https://erijones.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://erijones.github.io/research/</guid>
-      <description>Most people have experienced gut issues&#39;&#39; that led to diarrhea, discomfort, and other unpleasant symptoms at some point in their lives. In many cases, our gut microbiome---a complex ecosystem of trillions of bacteria---has been implicated as a cause of gut maladies. My research is motivated by microbiome-based medicine,&amp;rsquo;&amp;rsquo; personalized bacterial therapies that might one day heal suffering individuals. An emblematic and contemporary example of these therapies is fecal microbiota transplantation (FMT), which cures C.</description>
+      <description>Most people have experienced &amp;ldquo;gut issues&amp;rdquo; that led to diarrhea, discomfort, and other unpleasant symptoms at some point in their lives. In many cases, our gut microbiome&amp;mdash;a complex ecosystem of trillions of bacteria&amp;mdash;has been implicated as a cause of gut maladies. My research is motivated by ``microbiome-based medicine,&amp;rsquo;&amp;rsquo; personalized bacterial therapies that might one day heal suffering individuals. An emblematic and contemporary example of these therapies is fecal microbiota transplantation (FMT), which cures C.</description>
     </item>
     <item>
       <title>Teaching</title>

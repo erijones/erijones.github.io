@@ -17,9 +17,7 @@
 
 
 <script type="text/javascript">
-    var azbalacHeaderImage = [{"url":"https:\/\/erijones.github.io\/img\/header_image.png",
-    "height": '178',
-    "width": '679'},"","",""];
+    var azbalacSettingHeaderMoveTitle = '';
 </script>
 <script src="https://erijones.github.io/js/jquery-3.4.1.min.js"></script>
 <script src="https://erijones.github.io/js/functions.js"></script><style>body {}</style>
@@ -99,23 +97,28 @@
 
             
 
-            <div id="site-header-above"><a href="https://erijones.github.io/" rel="home"><img id="site-header-image" src="https://erijones.github.io/img/header_image.png" width="1" height="1" data-width="679" data-height="178" alt="">
+            <div id="site-header-above"><a href="https://erijones.github.io/" rel="home">
+                <picture>
+                        <source media="(min-width: 1200px)" srcset="https://erijones.github.io/img/header_image.png 1110w">
+                        <source media="(min-width: 992px) and (max-width: 1199.98px)" srcset="https://erijones.github.io/img/header_image.png 930w">
+                        <source media="(min-width: 768px) and (max-width: 991.98px)" srcset="https://erijones.github.io/img/header_image.png 690w">
+                        <source media="(min-width: 576px) and (max-width: 767.98px)" srcset="https://erijones.github.io/img/header_image.png 510w">
+                        <source media="(max-width: 575.98px)" srcset="https://erijones.github.io/img/header_image.png 476w">
+                        <img id="site-header-image" src="https://erijones.github.io/img/header_image.png" style="max-width: 100%; width: 100%">
+                </picture>
                 </a>
 
                 <div id="site-header-container-overlay" class="position-absolute  fixed-top ">
                     <div id="site-header-box-title" class=" d-flex justify-content-start ">
-                        <h1 class="azbalac-title" id="site-header-text"><a class="header-url" style="color: #073642;" href="https://erijones.github.io/">Eric W. Jones</a></h1>
+                        <h1 class="azbalac-title" id="site-header-text"><a class="header-url" style="color: #073642;" href="https://erijones.github.io/"></a></h1>
                     </div>
                     
-                    <div id="site-header-box-subtitle" class=" d-flex justify-content-start ">   
-                        <h2 class="azbalac-subtitle" id="site-description" style="color: #333333;">Postdoctoral Fellow, Simon Fraser University</h2>
-                    </div>
                 </div>
                 
              
             </div>
 
-
+    
     <nav id="navbarMain" class="navbar navbar-expand-sm justify-content-between mb-3 navbar-dark bg-primary" role="navigation">
         
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -148,16 +151,6 @@
 
   
   <li class="nav-item ">
-    <a class="nav-link" href="/teaching/">
-      
-      Teaching
-    </a>
-  </li>
-  <span class="mx-2"></span>
-  
-
-  
-  <li class="nav-item ">
     <a class="nav-link" href="/contact/">
       
       Contact
@@ -175,22 +168,13 @@
   </li>
   <span class="mx-2"></span>
   
-
-  
-  <li class="nav-item active">
-    <a class="nav-link" href="/pictures/">
-      
-      Pictures
-    </a>
-  </li>
-  <span class="mx-2"></span>
-  
 </ul>
              
             </div>
         
             
     </nav> 
+    
 
 
 
@@ -305,6 +289,10 @@ Here are a few pictures from those adventures.</p>
     
 
     <div id="media-width-detection-element"></div>
+
+  
+
+
 <script src="https://erijones.github.io/js/popper.min.js"></script>
 <script src="https://erijones.github.io/js/bootstrap.min.js"></script>
 
