@@ -1,0 +1,2 @@
+% reduce png filesize:
+% convert -resize 70% -quality 70 micaela_pollard.png output.png 
